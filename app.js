@@ -106,9 +106,10 @@
     });
   }
 
-  // --- Initialize hero as in-view ---
-  const hero = document.querySelector('.hero-section');
-  if (hero) {
-    hero.classList.add('in-view');
+  // --- Initialize first section as in-view ---
+  if (sections.length > 0) {
+    sections[0].classList.add('in-view');
+    updateNav(sections[0].id);
+    animateCounters(sections[0]);
   }
 })();

@@ -331,6 +331,32 @@ body {
 .story-section .metric-value { color: var(--accent, #1A1D2E); }
 .story-section .insight-box { border-right-color: var(--accent, #1A1D2E); }
 
+/* ===== BREEZE SUPER-APP LAYOUT ===== */
+.breeze-superapp-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+}
+
+.superapp-text .section-subtitle {
+  margin-bottom: 28px;
+}
+
+.superapp-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.superapp-image img {
+  max-width: 100%;
+  max-height: 70vh;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  object-fit: contain;
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 1400px) {
   .story-section {
@@ -388,4 +414,9 @@ body {
 
   .hero-title { font-size: 1.8rem; }
   .section-headline { font-size: 1.4rem; }
+
+  .breeze-superapp-layout {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
 }
