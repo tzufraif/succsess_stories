@@ -1,0 +1,43 @@
+Sources & References
+====================
+
+easyJet holidays
+----------------
+- easyJet FY25 results & holidays profitability: https://corporate.easyjet.com/investors
+- easyJet holidays variable cost model & direct contracting: https://corporate.easyjet.com/~/media/Files/E/Easyjet/pdf/investors/results-centre/easyjet-fy25-results.pdf
+
+AirAsia MOVE
+------------
+- AirAsia super-app strategy & digital transformation: https://simpleflying.com/airasia-move-super-app/
+- AirAsia 75M user base & cross-sell improvements: https://newsroom.airasia.com
+- Capital A (AirAsia parent) investor presentations: https://www.capitala.com/investors
+- Hotel bookings growth Q1 2025 (+54% YoY): https://newsroom.airasia.com/news/2025/5/30/capital-a-financial-results-first-quarter-2025
+- Hotel bookings growth Q2 2025 (+38% YoY): https://newsroom.airasia.com/news/2025/8/28/capital-a-financial-results-second-quarter-2025
+  NOTE: The "40%+ quarterly growth" figure is year-over-year (vs same quarter previous year).
+  Full year 2025 rounds to "nearly 40%" YoY per AirAsia's own reporting.
+
+Jet2holidays
+------------
+- Jet2 FY25 revenue £7.17B & cash position: https://www.jet2plc.com/investors
+- Jet2 package customer share (66.5%) & regional base model: https://www.jet2plc.com/~/media/Files/J/Jet2/documents/results/jet2-plc-fy25-results.pdf
+- Jet2 historical revenue data (CAGR calculation): https://companiesmarketcap.com/gbp/jet2/revenue/
+  NOTE: £434M is FY2010 revenue. FY2010→FY2025 = 15 years, CAGR ~21%.
+  The original "13 years" was incorrect and has been corrected to 15.
+
+Breeze Airways
+--------------
+- Breeze Q4 2024 first operating profit: https://www.globenewswire.com/news-release/2025/01/23/3014257/0/en/Breeze-Airways-Announces-First-Full-Quarter-of-Operating-Profit-in-4Q2024.html
+- Breeze first net profit Q2 2025: https://crankyflier.com/2025/09/22/breeze-posts-its-first-profit-while-avelo-crawls-back-from-the-depths-of-despair/
+- Ancillary revenue 54% / $89.82 per pax (IdeaWorks 2025 Yearbook): https://aviationa2z.com/index.php/2025/09/11/top-10-airlines-with-highest-ancillary-revenue-2025/
+- IdeaWorksCompany 2025 Yearbook of Ancillary Revenue: https://ideaworkscompany.com/store/2025-yearbook-of-ancillary-revenue-for-2024-financial-year/
+- "Tech company that flies planes" - Neeleman profile: https://simpleflying.com/breeze-airways-a-tech-company-who-happens-to-fly-planes/
+- Neeleman at CAPA Summit - vision & growth: https://apex.aero/articles/breeze-airways-ceo-david-neeleman-opens-capa-summit-with-bold-vision-for-passenger-centric-tech-driven-airline-growth/
+- Neeleman at APEX EXPO 2025 - tech & new markets: https://apex.aero/articles/apex-expo-2025-breeze-ceo-david-neeleman-on-growth-tech-new-markets/
+- Breeze 2026 expansion & new cities: https://simpleflying.com/breeze-airways-expansion-2-new-cities-route-map-2026/
+- Breeze network & revenue growth: https://simpleflying.com/breeze-airways-network-revenue-growth/
+- Breeze fleet target 400 aircraft: https://simpleflying.com/breeze-airways-targets-400-aircraft/
+- Breezy Rewards loyalty program revamp 2026: https://www.globenewswire.com/news-release/2026/01/01/3211983/0/en/Breeze-Airways-Rolls-Out-New-Breezy-Rewards-Levels-and-Benefits-as-Part-of-Enhanced-Loyalty-Program.html
+- Breeze loyalty program analysis: https://frequentmiler.com/breeze-airways-loyalty-program-breezy-rewards-changes/
+- US unserved routes analysis (OAG): https://www.oag.com/blog/us-unserved-routes-is-there-room-for-breeze-airways-on-the-runway
+- Breeze first quarterly profit (Aviation Week): https://aviationweek.com/air-transport/airlines-lessors/breeze-airways-posts-first-quarterly-profit-after-adding-29-airports
+- Breeze 2025 new routes: https://www.travelandtourworld.com/news/article/breeze-airways-soars-in-2025-with-40-new-routes-from-fort-lauderdale-salisbury-akron-orlando-wilmington-islip/
